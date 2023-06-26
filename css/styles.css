@@ -10833,7 +10833,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(45deg,#C98FFF,#9417FF, #035AA6) !important
+  background: linear-gradient(45deg,#B19cd9,#9417FF, #3694ea) !important
 }
 
 .font-alt {
@@ -11093,10 +11093,10 @@ footer a:hover, footer a:active, footer a:focus {
   display: none;
 }
 .masthead .masthead-device-mockup .circle .gradient-start-color {
-  stop-color: #2937f0;
+  stop-color: #b28ef1;
 }
 .masthead .masthead-device-mockup .circle .gradient-end-color {
-  stop-color: #9f1ae2;
+  stop-color: #B19cd9;
 }
 .masthead .masthead-device-mockup .shape-1 {
   position: absolute;
